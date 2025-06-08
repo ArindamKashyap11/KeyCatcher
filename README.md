@@ -4,7 +4,7 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)
 
-**KeyCatcher** is a powerful terminal-based C2 server built for the *"extra mile"* exercise in OffSec’s **Web-200 (OSWA)** course. It captures keystrokes from compromised webpages and visualizes them in a clean, real-time Terminal UI.
+**KeyCatcher** is a powerful terminal-based C2 server. It captures keystrokes from compromised webpages and visualizes them in a clean, real-time Terminal UI.
 ![Demo](keycatcher.gif)
 
 ## ✨ Features
